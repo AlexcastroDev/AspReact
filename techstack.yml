@@ -2,7 +2,7 @@ repo_name: AlexcastroDev/AspReact
 report_id: 7d0439d48f6c26ba785dda91af457800
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-02T14:22:03+00:00'
+timestamp: '2024-01-05T08:12:15+00:00'
 requested_by: AlexcastroDev
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/AlexcastroDev/AspReact
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/AlexcastroDev/AspReact
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/AlexcastroDev/AspReact
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -105,6 +108,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/AspReact/blob/main/AspReact/Dockerfile
   detection_source: AspReact/Dockerfile
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-05-19 11:04:28.000000000 Z
@@ -159,6 +163,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/8935/0Xm63ShM_400x400__1_.jpg
+  detection_source_url: https://github.com/AlexcastroDev/AspReact/blob/main/AspReact/ClientApp/package.json
   detection_source: AspReact/ClientApp/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-05-19 11:04:28.000000000 Z
@@ -171,6 +176,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/AlexcastroDev/AspReact
   detection_source: Repo Metadata
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
@@ -181,6 +187,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/AlexcastroDev/AspReact/blob/main/AspReact/ClientApp/package.json
   detection_source: AspReact/ClientApp/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-05-19 11:04:28.000000000 Z
@@ -192,6 +199,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/AlexcastroDev/AspReact
   detection_source: Repo Metadata
 - name: Visual Studio
   description: State-of-the-art tools and services that you can use to create great
@@ -202,6 +210,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/AlexcastroDev/AspReact/blob/main/AspReact.sln
   detection_source: AspReact.sln
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-05-19 11:04:28.000000000 Z
@@ -213,6 +222,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/AlexcastroDev/AspReact/blob/main/AspReact/ClientApp/package.json
   detection_source: AspReact/ClientApp/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-05-19 11:04:28.000000000 Z
@@ -224,6 +234,7 @@ tools:
   category: Analytics
   sub_category: General Analytics
   image_url: https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg
+  detection_source_url: https://github.com/AlexcastroDev/AspReact/blob/main/AspReact/ClientApp/package.json
   detection_source: AspReact/ClientApp/package.json
   last_updated_by: Alex Oliveira
   last_updated_on: 2023-05-19 11:04:28.000000000 Z
